@@ -50,11 +50,6 @@ All required libraries will be installed in the notebook itself.
 - [LangGraph GitHub](https://github.com/langchain-ai/langgraph)
 - [LangChain Documentation](https://docs.langchain.com/)
 - [LangGraph Documentation](https://docs.langchain.com/langgraph/)
-
-## 📩 Contact
-
-For questions or feedback, feel free to reach out via GitHub Issues or connect on [LinkedIn](https://www.linkedin.com/in/haziqa5122/).
-
 ---
 
 **Enjoy experimenting with AI agents and LangGraph!**
